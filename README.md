@@ -20,4 +20,4 @@ Rscript.exe -e 'devtools::install_github("akshat-max/powerR")'
     - r-lib/actions/check-r-package
 
 
-Examples for this package can be located in the [example]() directory. 
+Examples for this package can be located in the [example](https://github.com/akshat-max/PowerR/tree/main/example) directory. 
