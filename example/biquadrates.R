@@ -1,4 +1,4 @@
 #exmaple of biquadrates
 
 library(powerR)
-biquadrates(5)
+biquadrates(7)
