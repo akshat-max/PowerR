@@ -1,6 +1,7 @@
 #' Square a number
 #' 
 #' Takes in any numeric value and square it.
+#' Akshat Mittal
 #' @param x A numeric value to be squared 
 #' @export 
 #' @return the square of input
@@ -45,3 +46,4 @@ fifth_power<-function(x){
 sixth_power<-function(x){
   return(x^6)
 }
+

@@ -14,4 +14,5 @@ the square of input
 }
 \description{
 Takes in any numeric value and square it.
+Akshat Mittal
 }
