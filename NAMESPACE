@@ -2,4 +2,6 @@
 
 export(biquadrates)
 export(cube)
+export(fifth_power)
+export(sixth_power)
 export(square)

@@ -1,4 +1,4 @@
 #exmaple of square
 
 library(powerR)
-square(4)
+square(3)

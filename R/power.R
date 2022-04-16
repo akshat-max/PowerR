@@ -27,3 +27,21 @@ return(x^3)
 biquadrates<- function(x){
   return(x^4)
 }
+#' fifth power a number
+#' 
+#' Takes in any numeric value and fifth power it.
+#' @param x A numeric value to be fifth power 
+#' @export 
+#' @return the fifth power of input 
+fifth_power<-function(x){
+  return(x^5)
+}
+#' sixth power a number
+#' 
+#' Takes in any numeric value and sixth power it.
+#' @param x A numeric value to be sixth power 
+#' @export 
+#' @return the sixth power of input 
+sixth_power<-function(x){
+  return(x^6)
+}
